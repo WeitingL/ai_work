@@ -2,6 +2,8 @@
 
 - **ID**: [對應的 Spec ID]
 - **關聯需求**: [對應的 Spec 文件連結，檔名格式為 [ID]-spec-[name].md]
+- **來源分支 (Source Branch)**: [由 Tech Designer 填寫，例如 main 或 develop]
+- **功能分支 (Feature Branch)**: `develop/[ID]_[branch_name]` (請 Tech Designer 依此格式命名)
 
 ---
 
